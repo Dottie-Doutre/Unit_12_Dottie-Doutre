@@ -16,7 +16,6 @@ The following techniques utilised to complete this assignment:
 NewsApiClient - reading in and fetching news articles.
 Creating a sentiment function.
 Describing both Bitcoin and Ethereum sentiments.
-
 ```
 
 ### Natural Language Processing:
@@ -83,12 +82,11 @@ WordCloud - Ethereum
 
 ### Named Entity Recognition (NER): 
 
-NER - Bitcoin (sample)
+NER - Bitcoin (sample output)
 
 ![image_add](Images/Image2.PNG)
 
-NER - Ethereum (sample)
+NER - Ethereum (sample output)
 
 ![image_add](Images/Image3.PNG)
-
 
